@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e595b38-9612-4527-802f-42327aa6626d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CodingBat/CatDog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CodingBat/CenteredAverage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CodingBat/LoneSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CodingBat/MakeBricks.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/problemsolving/ArrayElementPick.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/problemsolving/ArrayElementPick.java" afterPath="$PROJECT_DIR$/src/main/java/CodingBat/ArrayElementPick.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/problemsolving/ArraySum13.java" afterPath="$PROJECT_DIR$/src/main/java/CodingBat/ArraySum13.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CodingBat/BigDif.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -77,15 +71,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="380">
-                <caret line="20" column="74" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
+              <first_editor relative-caret-position="38">
+                <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -116,11 +110,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="BigDif.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CodingBat/BigDif.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-24">
+              <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="CenteredAverage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CodingBat/CenteredAverage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+            <state relative-caret-position="506">
+              <caret line="44" column="45" selection-start-line="33" selection-start-column="5" selection-end-line="44" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -156,6 +160,7 @@
         <option value="$PROJECT_DIR$/src/main/java/CodingBat/CatDog.java" />
         <option value="$PROJECT_DIR$/src/main/java/CodingBat/CenteredAverage.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/CodingBat/BigDif.java" />
       </list>
     </option>
   </component>
@@ -306,27 +311,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CenteredAverage">
-    <configuration default="false" name="ArraySum13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="CodingBat.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="CodingBat.ArraySum13" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Problem-Solving-in-Java" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.BigDif">
     <configuration default="false" name="LoneSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -395,6 +380,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="CodingBat.CenteredAverage" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Problem-Solving-in-Java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BigDif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="CodingBat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="CodingBat.BigDif" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -684,19 +689,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ArraySum13" />
-      <item index="1" class="java.lang.String" itemvalue="Application.LoneSum" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MakeBricks" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CatDog" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CenteredAverage" />
+      <item index="0" class="java.lang.String" itemvalue="Application.LoneSum" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MakeBricks" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CatDog" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CenteredAverage" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BigDif" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CenteredAverage" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MakeBricks" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CatDog" />
-        <item index="3" class="java.lang.String" itemvalue="Application.LoneSum" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ArraySum13" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BigDif" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CenteredAverage" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MakeBricks" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CatDog" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LoneSum" />
       </list>
     </recent_temporary>
   </component>
@@ -715,12 +720,20 @@
       <updated>1472493189598</updated>
       <workItem from="1472493192690" duration="442000" />
       <workItem from="1472493661710" duration="718000" />
-      <workItem from="1472566882404" duration="15390000" />
+      <workItem from="1472566882404" duration="16680000" />
     </task>
+    <task id="LOCAL-00001" summary="centeredaverage solved">
+      <created>1472672909735</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1472672909735</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16550000" />
+    <option name="totallyTimeSpent" value="17840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="159" y="-777" width="1119" height="773" extended-state="0" />
@@ -732,8 +745,8 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32671756" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32671756" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32671756" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24976787" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -762,6 +775,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="centeredaverage solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="centeredaverage solved" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -771,8 +788,14 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CodingBat/BigDif.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -873,14 +896,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CodingBat/CenteredAverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -893,11 +908,27 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="380">
-            <caret line="20" column="74" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CodingBat/CenteredAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="44" column="45" selection-start-line="33" selection-start-column="5" selection-end-line="44" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CodingBat/BigDif.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,10 +1,5 @@
 # Problem-Solving-in-Java
 
-# Purpose
-
-This repository is created for practice purpose. 
-Practice code in java will be uploaded to this repository.
-
 #Coding Practice
 If anyone wants to build skill in running, he/she needs to run.
 To build skill in code, we need to write code. 
