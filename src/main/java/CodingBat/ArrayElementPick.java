@@ -1,4 +1,4 @@
-package problemsolving;
+package CodingBat;
 
 /**
  * Created by anjalhussan on 8/29/16.
