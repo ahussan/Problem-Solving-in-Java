@@ -1,4 +1,4 @@
-package CodingBat2;
+package codingbat.array.string;
 
 /**
  * Created by anjalhussan on 9/7/16.

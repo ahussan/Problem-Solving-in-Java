@@ -1,4 +1,4 @@
-package CodingBat;
+package codingbat.array.integer;
 
 /**
  * Created by anjalhussan
