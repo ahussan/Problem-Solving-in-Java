@@ -2,33 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e595b38-9612-4527-802f-42327aa6626d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CodingBat/hashmap/MapStringWithInt.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/codingbat/array/integer/ArrayElementPick.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/codingbat/array/integer/ArraySum13.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/codingbat/array/integer/BigDif.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/codingbat/array/integer/CatDog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/codingbat/array/integer/CenteredAverage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/codingbat/array/integer/Has22.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/codingbat/array/integer/Has271.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/codingbat/array/integer/LoneSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/codingbat/array/integer/MakeBricks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/codingbat/array/integer/Sum67.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/codingbat/array/integer/Warmup2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/codingbat/hashmap/MapPairs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/codingbat/hashmap/MapWordLen.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/CodingBat/ArrayElementPick.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/CodingBat/ArraySum13.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/CodingBat/BigDif.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/CodingBat/CatDog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/CodingBat/CenteredAverage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/CodingBat/Has22.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/CodingBat/Has271.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/CodingBat/LoneSum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/CodingBat/MakeBricks.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/CodingBat/Sum67.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/CodingBat/Warmup2.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/CodingBat2/Warmup2Array.java" afterPath="$PROJECT_DIR$/src/main/java/codingbat/array/string/Warmup2Array.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/CodingBat2/Warmup2String.java" afterPath="$PROJECT_DIR$/src/main/java/codingbat/array/string/Warmup2String.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Problem-Solving-in-Java.iws" />
@@ -80,8 +53,8 @@
       <file leaf-file-name="MapPairs.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/codingbat/hashmap/MapPairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="209">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -751,7 +724,7 @@
       <updated>1472493189598</updated>
       <workItem from="1472493192690" duration="442000" />
       <workItem from="1472493661710" duration="718000" />
-      <workItem from="1472566882404" duration="35766000" />
+      <workItem from="1472566882404" duration="35833000" />
     </task>
     <task id="LOCAL-00001" summary="centeredaverage solved">
       <created>1472672909735</created>
@@ -764,11 +737,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36926000" />
+    <option name="totallyTimeSpent" value="36993000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="769" y="-825" width="1119" height="773" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -780,7 +753,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29160306" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32671756" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30640668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30640668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1073,8 +1046,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/codingbat/hashmap/MapPairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="209">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
