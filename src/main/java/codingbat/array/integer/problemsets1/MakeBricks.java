@@ -1,4 +1,4 @@
-package codingbat.array.integer;
+package codingbat.array.integer.problemsets1;
 
 /**
  * Created by anjalhussan
