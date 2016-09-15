@@ -4,6 +4,8 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
+import static Lib.UtilLib.printMap;
+
 /**
  * Created by anjalhussan on 9/9/16.
  */
@@ -24,7 +26,6 @@ public class MapStringWithInt {
 
     public static void main(String [] args){
         String[] word0=new String[]{"a", "b", "a", "b"};// → {"b": 0, "a": 0}
-
         printMap(word0(word0));
     }
     public static Map<String, Integer> word0(String[] strings) {
@@ -33,15 +34,6 @@ public class MapStringWithInt {
             myMap.put(strings[i], 0);
         }
         return myMap;
-    }
-
-    public static void printMap(Map mp) {
-        Iterator it = mp.entrySet().iterator();
-        while (it.hasNext()) {
-            Map.Entry pair = (Map.Entry)it.next();
-            System.out.println(pair.getKey() + " = " + pair.getValue());
-            it.remove(); // avoids a ConcurrentModificationException
-        }
     }
 
 

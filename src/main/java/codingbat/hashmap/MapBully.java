@@ -1,7 +1,8 @@
 package codingbat.hashmap;
 
+import Lib.UtilLib;
+
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
 
 /**
@@ -26,9 +27,9 @@ public class MapBully {
         Map<String, String> mymap = new HashMap<>();
         mymap.put("a", "Candy");
         mymap.put("b", "Carrot");
-        printMap(mymap);
+        UtilLib.printMap(mymap);
         System.out.println("=========");
-        printMap(mapBully(mymap));
+        UtilLib.printMap(mapBully(mymap));
 
     }
 
@@ -40,11 +41,4 @@ public class MapBully {
         return map;
     }
 
-    public static void printMap(Map mp) {
-        Iterator it = mp.entrySet().iterator();
-        while (it.hasNext()) {
-            Map.Entry pair = (Map.Entry) it.next();
-            System.out.println(pair.getKey() + " = " + pair.getValue());
-        }
-    }
 }

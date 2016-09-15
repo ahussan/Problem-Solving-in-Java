@@ -4,6 +4,8 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
+import static Lib.UtilLib.printMap;
+
 /**
  * Created by anjalhussan on 9/11/16.
  */
@@ -42,12 +44,4 @@ public class MapAB {
         return map;
     }
 
-
-    public static void printMap(Map mp) {
-        Iterator it = mp.entrySet().iterator();
-        while (it.hasNext()) {
-            Map.Entry pair = (Map.Entry) it.next();
-            System.out.println(pair.getKey() + " = " + pair.getValue());
-        }
-    }
 }
