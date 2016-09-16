@@ -21,7 +21,7 @@ public class Pre4 {
 
     public static void main(String[] args) {
         int[] nums = new int[]{1, 2, 1, 4};
-        UtilLib.printarray(pre4(nums));
+        UtilLib.printIntarray(pre4(nums));
     }
 
     public static int[] pre4(int[] nums) {
@@ -37,7 +37,6 @@ public class Pre4 {
         }
         return newarray;
     }
-
 
 }
 
