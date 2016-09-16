@@ -9,7 +9,7 @@ import java.util.Map;
  */
 public class UtilLib {
 
-    public static void printarray(int[] nums){
+    public static void printIntarray(int[] nums){
         System.out.println(Arrays.toString(nums));
     }
 
