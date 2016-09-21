@@ -13,6 +13,10 @@ public class UtilLib {
         System.out.println(Arrays.toString(nums));
     }
 
+    public static void printStringarray(String[] nums){
+        System.out.println(Arrays.toString(nums));
+    }
+
     public static void printMap(Map mp) {
         Iterator it = mp.entrySet().iterator();
         while (it.hasNext()) {
