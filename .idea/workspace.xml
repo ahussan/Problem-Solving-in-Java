@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c24a96b-bead-4694-bacb-135fe633c098" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/recursion/changeXY.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/string/manipulation/ReverseSubString.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Problem-Solving-in-Java.iws" />
@@ -92,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseSubString.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/string/manipulation/ReverseSubString.java">
+      <file leaf-file-name="AddSpaceAfterTwoLetter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/string/manipulation/AddSpaceAfterTwoLetter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+            <state relative-caret-position="360">
+              <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -136,6 +134,7 @@
         <option value="$PROJECT_DIR$/src/main/java/recursion/Array220.java" />
         <option value="$PROJECT_DIR$/src/main/java/recursion/changeXY.java" />
         <option value="$PROJECT_DIR$/src/main/java/string/manipulation/ReverseSubString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/string/manipulation/AddSpaceAfterTwoLetter.java" />
       </list>
     </option>
   </component>
@@ -272,7 +271,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.ReverseSubString">
+  <component name="RunManager" selected="Application.AddSpaceAfterTwoLetter">
     <configuration default="false" name="Array11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -333,14 +332,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ReverseSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="AddSpaceAfterTwoLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="string.manipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="string.manipulation.ReverseSubString" />
+      <option name="MAIN_CLASS_NAME" value="string.manipulation.AddSpaceAfterTwoLetter" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -604,11 +603,11 @@
       <item index="0" class="java.lang.String" itemvalue="Application.Array11" />
       <item index="1" class="java.lang.String" itemvalue="Application.Array220" />
       <item index="2" class="java.lang.String" itemvalue="Application.changeXY" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ReverseSubString" />
+      <item index="3" class="java.lang.String" itemvalue="Application.AddSpaceAfterTwoLetter" />
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.ReverseSubString" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AddSpaceAfterTwoLetter" />
         <item index="1" class="java.lang.String" itemvalue="Application.changeXY" />
         <item index="2" class="java.lang.String" itemvalue="Application.Array220" />
         <item index="3" class="java.lang.String" itemvalue="Application.Array11" />
@@ -643,8 +642,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21338913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29009762" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21338913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29009762" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25727698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -726,7 +725,7 @@
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/string/manipulation/ReverseSubString.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/string/manipulation/AddSpaceAfterTwoLetter.java</url>
           <line>2</line>
           <properties />
           <option name="timeStamp" value="36" />
@@ -1038,10 +1037,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/manipulation/ReverseSubString.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/string/manipulation/AddSpaceAfterTwoLetter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        <state relative-caret-position="360">
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
           <folding />
         </state>
       </provider>
