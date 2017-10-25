@@ -1,4 +1,4 @@
-package factorial;
+package Logical;
 
 /**
  * Created by anjalhussan on 10/25/16.
@@ -6,7 +6,7 @@ package factorial;
 /*
 Using the Java language,
 have the function FirstFactorial(num) take the num parameter
-being passed and return the factorial of it (e.g. if num = 4,
+being passed and return the Logical of it (e.g. if num = 4,
 return (4 * 3 * 2 * 1)). For the test cases, the range will be between 1 and 10.
 Sample Test Cases
 Input:4
